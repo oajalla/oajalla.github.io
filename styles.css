@@ -94,7 +94,7 @@ header {
     .container {
         scroll-snap-type: y mandatory;
         overflow-y: scroll;
-     
+        height: 100vh;
     }
 
     /* individual sections */
